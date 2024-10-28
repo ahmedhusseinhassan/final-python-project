@@ -4,7 +4,7 @@ This project aims to analyze and visualize data related to anime in 2024. Throug
 
 ## Repository Contents
 #### 1- Anime 2024 Data Analysis.ipynb: The main Jupyter Notebook containing the data analysis process. This notebook includes data preprocessing, exploratory data analysis (EDA), visualization, and insights derived from the dataset.
-#### 2- Data: (If applicable, include information on the data source). The dataset contains various fields, such as genres, ratings, episode counts, and more.
+#### 2- Data: The dataset contains various fields, such as genres, ratings, episode counts, and more.
 ### Key Objectives
 #### 1-To understand trends in anime viewership and popularity in 2024.
 #### 2-To identify popular genres, ratings, and other relevant metrics within the dataset.
